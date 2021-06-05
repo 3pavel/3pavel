@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @3pavel
-- 👀 I’m interested in DataScince
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Computer vision
 
 <!---
 3pavel/3pavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
